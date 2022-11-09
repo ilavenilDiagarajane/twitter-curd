@@ -1,0 +1,22 @@
+.btn-remove {
+  border: none;
+  color: #1d9bf0;
+  background-color: white;
+
+}
+.PostList-content {
+  display: flex;
+  align-items: center;
+
+
+}
+.PostList-btn {
+  display: flex;
+  gap: 30px;
+}
+.PostList-main {
+    display: flex;
+    flex-direction: column;
+   margin:20px;
+    gap: 16px;
+}

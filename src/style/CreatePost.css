@@ -1,0 +1,47 @@
+.CreatePost-content {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  
+  padding: 20px;
+  border-bottom: 1px solid #80808033;
+
+}
+.profile_image {
+  width: 66px;
+}
+.postcontent {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+.posthead {
+  font-size: 30px;
+  font-weight: 900;
+}
+
+.message-box {
+    width: 500px;
+    height: 62px;
+    border: none;
+    font-size: 20px;
+    
+    padding: 20px;
+}
+button.btn-tweet {
+  
+    width: 100px;
+    height: 36px;
+    border: none;
+    background: #1d9bf0;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+   border-radius: 50px;
+}
+.postcontent-list{
+    display: flex;
+    flex-direction: column;
+    padding:20px;
+}

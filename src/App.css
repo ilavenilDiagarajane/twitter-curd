@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.conatiner {
+  display: flex;
+  justify-content: flex-start;
+}
+.menu-content {
+  flex-basis: 25%;
+  display: flex;
+  justify-content: center;
+  border-right: 1px solid #80808033;
+ 
+  margin-top: 20px;
+}
+.main-content {
+  flex-basis: 50%;
+  border-right: 1px solid #80808033;
+}
+.search-content {
+  flex-basis: 20%;
+}
